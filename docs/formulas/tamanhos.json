@@ -1,0 +1,34 @@
+{
+ "01_ic_proporcao": {
+  "largura_pt": 166.6,
+  "altura_pt": 35.8
+ },
+ "02_teste_proporcao": {
+  "largura_pt": 92.4,
+  "altura_pt": 52.4
+ },
+ "03a_duas_proporcoes_teste": {
+  "largura_pt": 239.8,
+  "altura_pt": 54.1
+ },
+ "03b_duas_proporcoes_ic": {
+  "largura_pt": 197.0,
+  "altura_pt": 37.4
+ },
+ "04_qui_quadrado": {
+  "largura_pt": 202.4,
+  "altura_pt": 37.0
+ },
+ "05_kolmogorov": {
+  "largura_pt": 117.8,
+  "altura_pt": 16.3
+ },
+ "06_anova": {
+  "largura_pt": 351.2,
+  "altura_pt": 32.9
+ },
+ "07_bartlett_scheffe": {
+  "largura_pt": 284.2,
+  "altura_pt": 40.2
+ }
+}
