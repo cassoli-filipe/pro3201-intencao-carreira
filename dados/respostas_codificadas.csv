@@ -1,0 +1,211 @@
+id,data_envio,ingresso,intercambio,curso,media_faixa,entidade,processos,intencao_atual,intencao_ingresso,certeza,salario
+R001,2026-10-30,2025,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,0,Mercado financeiro,Mercado financeiro,5,10000
+R002,2026-10-30,2026,Não,Engenharia de Produção,"De 9,0 a 10,0",Sim,0,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",5,12000
+R003,2026-10-31,2025,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,2,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R004,2026-10-31,2025,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,0,Consultoria,Ainda não sabia,4,6000
+R005,2026-10-31,2025,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,5,Empreendedorismo,Empreendedorismo,4,8000
+R006,2026-10-31,2025,Não,Engenharia Química,"De 8,0 a 8,9",Sim,2,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",Mercado financeiro,5,5000
+R007,2026-10-31,2025,Não,Engenharia de Produção,"De 5,0 a 5,9",Sim,6,Mercado financeiro,Mercado financeiro,5,11000
+R008,2026-10-31,2025,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,0,Consultoria,Ainda não sabia,4,5000
+R009,2026-10-31,2025,Não,Engenharia de Minas,"De 7,0 a 7,9",Sim,0,Consultoria,Ainda não sabia,3,8000
+R010,2026-10-31,2025,Não,Engenharia Química,"De 7,0 a 7,9",Sim,0,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",1,8000
+R011,2026-10-31,2025,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,3,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,10000
+R012,2026-10-31,2025,Não,Engenharia Mecânica,"De 7,0 a 7,9",Sim,0,"Outro (ex.: pesquisa acadêmica, setor público)","Engenharia (projeto, operações, manutenção, P&D técnico)",2,9000
+R013,2026-10-31,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,0,Empreendedorismo,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,10000
+R014,2026-10-31,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,8000
+R015,2026-10-31,2025,Não,Engenharia Civil,"De 7,0 a 7,9",Sim,0,Empreendedorismo,Empreendedorismo,4,3000
+R016,2026-10-31,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,9000
+R017,2026-10-31,2025,Não,Engenharia de Materiais,"De 7,0 a 7,9",Sim,0,Ainda não sei,Consultoria,1,7000
+R018,2026-10-31,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 7,0 a 7,9",Sim,2,Empreendedorismo,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,5000
+R019,2026-10-31,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,1,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,12000
+R020,2026-10-31,2026,Não,Engenharia de Produção,"De 7,0 a 7,9",Não,1,Consultoria,Mercado financeiro,3,4000
+R021,2026-10-31,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 9,0 a 10,0",Sim,1,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,4000
+R022,2026-10-31,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Não,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",3,10000
+R023,2026-10-31,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,8000
+R024,2026-10-31,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Não,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,10000
+R025,2026-10-31,2025,Não,Engenharia Mecânica,"De 7,0 a 7,9",Sim,4,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,8000
+R026,2026-10-31,2026,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R027,2026-10-31,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 9,0 a 10,0",Sim,0,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",4,5000
+R028,2026-10-31,2025,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,3,Mercado financeiro,Ainda não sabia,4,10000
+R029,2026-11-01,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,5000
+R030,2026-11-01,2026,Não,Engenharia de Minas,"De 6,0 a 6,9",Sim,0,Mercado financeiro,Mercado financeiro,5,5000
+R031,2026-11-01,2026,Não,Engenharia de Produção,"De 7,0 a 7,9",Não,0,Mercado financeiro,Mercado financeiro,3,10000
+R032,2026-11-01,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 6,0 a 6,9",Sim,0,Consultoria,Mercado financeiro,4,4000
+R033,2026-11-01,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 6,0 a 6,9",Sim,0,Ainda não sei,Ainda não sabia,1,8000
+R034,2026-11-01,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Não,0,Mercado financeiro,Mercado financeiro,3,10000
+R035,2026-11-01,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 5,0 a 5,9",Não,1,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,5000
+R036,2026-11-01,2025,Não,Engenharia de Minas,"De 7,0 a 7,9",Sim,0,Consultoria,Consultoria,3,5000
+R037,2026-11-02,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,0,Mercado financeiro,Mercado financeiro,4,6500
+R038,2026-11-02,2026,Não,Engenharia Civil,"De 8,0 a 8,9",Sim,0,Empreendedorismo,Mercado financeiro,3,8000
+R039,2026-11-02,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,3,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",3,8000
+R040,2026-11-02,2024,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,5,Consultoria,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",2,7000
+R041,2026-11-02,2026,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,0,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",3,3500
+R042,2026-11-02,2026,Não,Engenharia de Computação,"De 7,0 a 7,9",Sim,1,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",2,7000
+R043,2026-11-02,2025,Não,Engenharia Química,"De 7,0 a 7,9",Sim,0,"Outro (ex.: pesquisa acadêmica, setor público)","Engenharia (projeto, operações, manutenção, P&D técnico)",1,3500
+R044,2026-11-02,2025,Não,Engenharia Mecatrônica,"De 8,0 a 8,9",Sim,3,Mercado financeiro,Mercado financeiro,3,8000
+R045,2026-11-02,2024,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,0,Mercado financeiro,Consultoria,4,5000
+R046,2026-11-02,2025,Não,Engenharia de Materiais,"De 7,0 a 7,9",Sim,0,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,2500
+R047,2026-11-02,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,5,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,5000
+R048,2026-11-02,2026,Não,Engenharia de Computação,"De 7,0 a 7,9",Sim,0,Consultoria,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",3,10000
+R049,2026-11-02,2025,Não,Engenharia Ambiental,"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R050,2026-11-02,2025,Não,Engenharia de Produção,"De 6,0 a 6,9",Não,1,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,8000
+R051,2026-11-02,2026,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,0,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,12000
+R052,2026-11-02,2025,Não,Engenharia de Materiais,"De 5,0 a 5,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,8000
+R053,2026-11-02,2025,Não,Engenharia Civil,"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,7000
+R054,2026-11-02,2024,Não,Engenharia Civil,"De 8,0 a 8,9",Sim,2,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,6500
+R055,2026-11-02,2025,Não,Engenharia Química,"De 8,0 a 8,9",Não,2,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",2,5000
+R056,2026-11-02,2025,Não,Engenharia de Materiais,"De 7,0 a 7,9",Sim,0,Consultoria,"Outro (ex.: pesquisa acadêmica, setor público)",4,8000
+R057,2026-11-02,2025,Não,Engenharia de Produção,"De 7,0 a 7,9",Não,0,Ainda não sei,Ainda não sabia,2,5000
+R058,2026-11-02,2025,Não,Engenharia de Computação,"De 8,0 a 8,9",Não,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",Ainda não sabia,4,6000
+R059,2026-11-02,2025,Não,Engenharia Ambiental,"De 7,0 a 7,9",Sim,0,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",5,2000
+R060,2026-11-02,2025,Não,Engenharia de Computação,"De 7,0 a 7,9",Sim,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",1,12000
+R061,2026-11-02,2024,Não,Outro curso da Poli,"De 5,0 a 5,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,12000
+R062,2026-11-02,2025,Não,Engenharia de Computação,"De 9,0 a 10,0",Sim,1,Mercado financeiro,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,9000
+R063,2026-11-02,2025,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,14,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",3,12000
+R064,2026-11-02,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,5,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,6000
+R065,2026-11-02,2025,Não,Engenharia Civil,"De 7,0 a 7,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)",Ainda não sabia,2,5000
+R066,2026-11-02,2025,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,0,Mercado financeiro,Mercado financeiro,5,7000
+R067,2026-11-02,2024,Não,Engenharia Ambiental,"De 7,0 a 7,9",Sim,3,Mercado financeiro,Mercado financeiro,4,7000
+R068,2026-11-02,2025,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,3,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,7000
+R069,2026-11-02,2025,Não,Engenharia Naval,"De 8,0 a 8,9",Não,1,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,10000
+R070,2026-11-02,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 7,0 a 7,9",Sim,0,Ainda não sei,Ainda não sabia,1,6000
+R071,2026-11-02,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,0,Mercado financeiro,Ainda não sabia,4,10000
+R072,2026-11-02,2025,Não,Engenharia Naval,"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,5000
+R073,2026-11-02,2025,Não,Engenharia de Computação,"De 7,0 a 7,9",Sim,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",3,9500
+R074,2026-11-02,2025,Não,Engenharia Metalúrgica,"Abaixo de 5,0",Sim,10,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",1,7000
+R075,2026-11-02,2025,Não,Engenharia Química,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Outro (ex.: pesquisa acadêmica, setor público)",4,6000
+R076,2026-11-02,Outro ano,Não,Engenharia de Produção,"De 5,0 a 5,9",Sim,6,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,8500
+R077,2026-11-02,2025,Não,Engenharia de Computação,"De 8,0 a 8,9",Não,0,Ainda não sei,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",1,5000
+R078,2026-11-02,2025,Não,Engenharia Química,"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,5000
+R079,2026-11-02,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,1,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",Mercado financeiro,3,10000
+R080,2026-11-02,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 5,0 a 5,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,5000
+R081,2026-11-02,2025,Não,Engenharia Civil,"De 7,0 a 7,9",Sim,0,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,7500
+R082,2026-11-02,2025,Não,Engenharia de Materiais,"De 8,0 a 8,9",Sim,0,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",4,5500
+R083,2026-11-02,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 5,0 a 5,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,6000
+R084,2026-11-02,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 7,0 a 7,9",Sim,5,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",5,14000
+R085,2026-11-02,2024,Não,Engenharia Naval,"De 6,0 a 6,9",Sim,10,Consultoria,Mercado financeiro,3,10000
+R086,2026-11-02,2025,Não,Engenharia Naval,"De 7,0 a 7,9",Sim,1,Mercado financeiro,Mercado financeiro,3,6000
+R087,2026-11-03,2024,Não,Engenharia Ambiental,"Abaixo de 5,0",Sim,2,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",4,3000
+R088,2026-11-03,2025,Não,Engenharia Naval,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,3000
+R089,2026-11-03,2025,Não,Engenharia Civil,"De 8,0 a 8,9",Sim,0,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,7000
+R090,2026-11-03,2025,Não,Engenharia de Produção,"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)",Ainda não sabia,2,5000
+R091,2026-11-03,2025,Não,Engenharia Química,"De 5,0 a 5,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,5000
+R092,2026-11-03,2025,Não,Engenharia de Minas,"De 7,0 a 7,9",Sim,0,Consultoria,Mercado financeiro,4,6000
+R093,2026-11-03,2025,Não,Engenharia Química,"De 8,0 a 8,9",Sim,0,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,8000
+R094,2026-11-03,2024,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,3,Mercado financeiro,Mercado financeiro,5,8000
+R095,2026-11-03,2025,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,3,"Outro (ex.: pesquisa acadêmica, setor público)","Engenharia (projeto, operações, manutenção, P&D técnico)",1,3500
+R096,2026-11-03,2025,Não,Engenharia de Computação,"De 9,0 a 10,0",Não,1,"Engenharia (projeto, operações, manutenção, P&D técnico)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,8000
+R097,2026-11-03,2025,Não,Engenharia de Materiais,"De 7,0 a 7,9",Sim,20,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",3,5000
+R098,2026-11-03,2024,Não,Engenharia de Materiais,"De 5,0 a 5,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,6000
+R099,2026-11-03,2025,Não,Engenharia de Materiais,"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,7000
+R100,2026-11-03,2025,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,8,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,8000
+R101,2026-11-03,2024,Não,Engenharia Elétrica (qualquer ênfase),"Abaixo de 5,0",Sim,10,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,6000
+R102,2026-11-03,2025,Não,Engenharia de Computação,"De 7,0 a 7,9",Sim,4,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,6000
+R103,2026-11-03,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,1,"Engenharia (projeto, operações, manutenção, P&D técnico)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",5,6000
+R104,2026-11-03,2024,Não,Engenharia Mecatrônica,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)",Empreendedorismo,4,3000
+R105,2026-11-03,2025,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,0,Consultoria,Consultoria,3,6000
+R106,2026-11-03,2025,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,1,Mercado financeiro,Mercado financeiro,5,6000
+R107,2026-11-03,2024,Não,Engenharia de Materiais,"De 8,0 a 8,9",Sim,0,Ainda não sei,Consultoria,2,4000
+R108,2026-11-03,2024,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,4,Mercado financeiro,Ainda não sabia,4,10000
+R109,2026-11-03,2024,Não,Engenharia Química,"De 9,0 a 10,0",Sim,4,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,6000
+R110,2026-11-03,Outro ano,Não,Engenharia Ambiental,"De 6,0 a 6,9",Sim,6,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,10000
+R111,2026-11-03,2024,Não,Engenharia Mecânica,"De 7,0 a 7,9",Sim,4,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,10000
+R112,2026-11-03,2026,Não,Engenharia de Materiais,"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,7000
+R113,2026-11-03,Outro ano,Não,Engenharia de Materiais,"De 6,0 a 6,9",Sim,10,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",4,20000
+R114,2026-11-03,2024,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,3,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",3,6000
+R115,2026-11-03,2024,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,3,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,7000
+R116,2026-11-03,2026,Não,Engenharia de Produção,"De 9,0 a 10,0",Não,2,Mercado financeiro,Mercado financeiro,4,10000
+R117,2026-11-03,2024,Não,Engenharia Naval,"De 7,0 a 7,9",Sim,30,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",3,7500
+R118,2026-11-03,2026,Não,Engenharia Mecânica,"De 6,0 a 6,9",Não,3,Mercado financeiro,Ainda não sabia,3,6000
+R119,2026-11-03,2024,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,2,Empreendedorismo,Mercado financeiro,3,12000
+R120,2026-11-03,2024,Não,Engenharia de Computação,"De 8,0 a 8,9",Sim,7,Consultoria,Ainda não sabia,4,12000
+R121,2026-11-03,2026,Não,Engenharia Mecânica,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,10000
+R122,2026-11-03,2026,Não,Engenharia Naval,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6500
+R123,2026-11-03,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,0,Ainda não sei,Mercado financeiro,1,10000
+R124,2026-11-03,2026,Não,Outro curso da Poli,"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,4500
+R125,2026-11-03,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R126,2026-11-03,2026,Não,Engenharia Civil,"De 8,0 a 8,9",Não,4,Mercado financeiro,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",5,6000
+R127,2026-11-03,2026,Não,Engenharia Civil,"De 9,0 a 10,0",Não,0,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",1,8000
+R128,2026-11-03,2024,Não,Engenharia Mecânica,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,8000
+R129,2026-11-03,2026,Não,Engenharia de Minas,"De 6,0 a 6,9",Não,5,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,4500
+R130,2026-11-03,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 6,0 a 6,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,7000
+R131,2026-11-03,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 6,0 a 6,9",Não,1,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",3,10000
+R132,2026-11-03,2026,Não,Engenharia de Materiais,"De 8,0 a 8,9",Não,4,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,7000
+R133,2026-11-03,2024,Não,Engenharia de Minas,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,9000
+R134,2026-11-03,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,0,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",3,8000
+R135,2026-11-03,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Não,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",3,6000
+R136,2026-11-03,2024,Não,Engenharia Civil,"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)",Mercado financeiro,4,5000
+R137,2026-11-03,2026,Não,Engenharia Mecatrônica,"De 7,0 a 7,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,5000
+R138,2026-11-03,2026,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,0,Mercado financeiro,Mercado financeiro,4,15000
+R139,2026-11-03,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 9,0 a 10,0",Não,2,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,10000
+R140,2026-11-03,2024,Não,Engenharia de Minas,"De 6,0 a 6,9",Sim,2,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R141,2026-11-03,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 6,0 a 6,9",Sim,15,Mercado financeiro,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",3,12000
+R142,2026-11-03,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 6,0 a 6,9",Sim,10,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,14000
+R143,2026-11-03,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,10000
+R144,2026-11-03,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 5,0 a 5,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,6000
+R145,2026-11-03,2026,Não,Engenharia de Computação,"De 9,0 a 10,0",Sim,0,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",2,5000
+R146,2026-11-03,2024,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,6,Consultoria,Ainda não sabia,4,12000
+R147,2026-11-03,2024,Não,Engenharia de Computação,"De 7,0 a 7,9",Sim,4,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",Mercado financeiro,4,9000
+R148,2026-11-03,Outro ano,Não,Engenharia Ambiental,"De 7,0 a 7,9",Sim,31,Mercado financeiro,Consultoria,5,7000
+R149,2026-11-03,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,5000
+R150,2026-11-03,2026,Não,Engenharia Civil,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,6000
+R151,2026-11-03,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,7,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,10000
+R152,2026-11-03,2026,Não,Engenharia Mecânica,"De 7,0 a 7,9",Sim,0,Empreendedorismo,Empreendedorismo,4,7500
+R153,2026-11-04,2024,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,2,Mercado financeiro,Ainda não sabia,4,4500
+R154,2026-11-04,2025,Não,Engenharia Ambiental,"Abaixo de 5,0",Não,10,"Outro (ex.: pesquisa acadêmica, setor público)","Outro (ex.: pesquisa acadêmica, setor público)",4,12000
+R155,2026-11-04,2024,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,15,Mercado financeiro,Mercado financeiro,4,25000
+R156,2026-11-04,2024,Não,Engenharia de Materiais,"De 7,0 a 7,9",Sim,3,Consultoria,Ainda não sabia,4,12000
+R157,2026-11-04,2026,Não,Engenharia Civil,"De 9,0 a 10,0",Sim,0,Mercado financeiro,Ainda não sabia,4,10000
+R158,2026-11-04,2026,Não,Engenharia de Computação,"De 7,0 a 7,9",Não,4,"Engenharia (projeto, operações, manutenção, P&D técnico)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,15000
+R159,2026-11-04,2024,Não,Engenharia Química,"De 7,0 a 7,9",Não,5,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,6000
+R160,2026-11-04,2024,Não,Engenharia de Computação,"De 7,0 a 7,9",Não,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,7000
+R161,2026-11-04,2026,Não,Engenharia Mecânica,"De 6,0 a 6,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,7500
+R162,2026-11-04,2026,Não,Engenharia Naval,"De 8,0 a 8,9",Sim,0,Consultoria,Consultoria,3,10000
+R163,2026-11-04,2026,Não,Engenharia Civil,"De 7,0 a 7,9",Não,0,Ainda não sei,Ainda não sabia,3,13000
+R164,2026-11-04,2024,Não,Engenharia de Minas,"De 6,0 a 6,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,8000
+R165,2026-11-04,2025,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,0,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,10000
+R166,2026-11-04,2026,Não,Engenharia Metalúrgica,"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R167,2026-11-04,2024,Não,Outro curso da Poli,"De 7,0 a 7,9",Sim,2,Mercado financeiro,Mercado financeiro,4,10000
+R168,2026-11-04,2024,Não,Engenharia de Materiais,"De 7,0 a 7,9",Sim,8,Consultoria,Ainda não sabia,5,9000
+R169,2026-11-04,2024,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,15,Mercado financeiro,Mercado financeiro,4,10000
+R170,2026-11-04,2024,Não,Engenharia Civil,"De 8,0 a 8,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,4000
+R171,2026-11-04,2024,Não,Engenharia Mecânica,"De 7,0 a 7,9",Sim,5,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,7000
+R172,2026-11-04,2026,Não,Engenharia Mecatrônica,"De 8,0 a 8,9",Não,1,Ainda não sei,Ainda não sabia,2,5000
+R173,2026-11-04,2024,Não,Engenharia Química,"De 6,0 a 6,9",Sim,2,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,10000
+R174,2026-11-04,Outro ano,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,1,Ainda não sei,Consultoria,1,5000
+R175,2026-11-04,2024,Não,Engenharia Civil,"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,7000
+R176,2026-11-04,2026,Não,Engenharia Elétrica (qualquer ênfase),"De 9,0 a 10,0",Sim,0,Empreendedorismo,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,5500
+R177,2026-11-04,2024,Não,Engenharia Mecânica,"De 6,0 a 6,9",Sim,0,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R178,2026-11-04,2026,Não,Engenharia Ambiental,"De 7,0 a 7,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,3000
+R179,2026-11-04,2026,Não,Engenharia Naval,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,5000
+R180,2026-11-04,2026,Não,Engenharia de Computação,"De 9,0 a 10,0",Sim,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",1,9000
+R181,2026-11-04,Outro ano,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,10,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",5,25000
+R182,2026-11-04,2024,Não,Engenharia Mecânica,"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,13000
+R183,2026-11-04,2024,Não,Engenharia Química,"De 7,0 a 7,9",Sim,7,Mercado financeiro,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,10000
+R184,2026-11-04,2024,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,4,Empreendedorismo,Empreendedorismo,5,9000
+R185,2026-11-04,2024,Não,Engenharia de Minas,"De 7,0 a 7,9",Sim,12,Mercado financeiro,Ainda não sabia,4,7000
+R186,2026-11-04,2024,Não,Engenharia Ambiental,"De 7,0 a 7,9",Sim,4,Consultoria,"Engenharia (projeto, operações, manutenção, P&D técnico)",4,12000
+R187,2026-11-04,2024,Não,Engenharia Naval,"De 5,0 a 5,9",Não,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,7000
+R188,2026-11-04,2026,Não,Engenharia de Computação,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,13000
+R189,2026-11-04,2024,Não,Engenharia Civil,"De 8,0 a 8,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,5000
+R190,2026-11-04,2026,Não,Engenharia de Computação,"De 7,0 a 7,9",Não,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",1,7000
+R191,2026-11-04,2024,Não,Engenharia Química,"De 6,0 a 6,9",Não,9,Ainda não sei,Ainda não sabia,2,6500
+R192,2026-11-04,2024,Não,Engenharia de Produção,"De 6,0 a 6,9",Sim,8,Mercado financeiro,Ainda não sabia,4,30000
+R193,2026-11-04,2026,Não,Engenharia Mecânica,"De 8,0 a 8,9",Não,0,"Outro (ex.: pesquisa acadêmica, setor público)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,9000
+R194,2026-11-04,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 7,0 a 7,9",Sim,0,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,15000
+R195,2026-11-04,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 7,0 a 7,9",Sim,3,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,6000
+R196,2026-11-04,2026,Não,Engenharia Mecatrônica,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,7000
+R197,2026-11-04,2024,Não,Engenharia Naval,"De 7,0 a 7,9",Sim,10,Mercado financeiro,Ainda não sabia,5,10000
+R198,2026-11-04,2024,Não,Engenharia Química,"De 7,0 a 7,9",Sim,3,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,8500
+R199,2026-11-04,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,5500
+R200,2026-11-04,2026,Não,Engenharia Mecatrônica,"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,4000
+R201,2026-11-04,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,11,Consultoria,Ainda não sabia,4,12000
+R202,2026-11-04,2024,Não,Engenharia de Computação,"De 8,0 a 8,9",Sim,3,"Engenharia (projeto, operações, manutenção, P&D técnico)","Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,3500
+R203,2026-11-04,2024,Não,Engenharia Civil,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)",Ainda não sabia,4,10000
+R204,2026-11-04,2024,Não,Engenharia Elétrica (qualquer ênfase),"De 7,0 a 7,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",3,6000
+R205,2026-11-04,2026,Não,Engenharia Mecatrônica,"De 6,0 a 6,9",Sim,0,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,8000
+R206,2026-11-04,2024,Não,Engenharia de Produção,"De 8,0 a 8,9",Sim,8,Mercado financeiro,Ainda não sabia,3,20000
+R207,2026-11-04,2024,Não,Engenharia de Produção,"De 7,0 a 7,9",Sim,4,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",4,20000
+R208,2026-11-04,2025,Não,Engenharia de Computação,"De 7,0 a 7,9",Sim,2,Mercado financeiro,"Tecnologia (desenvolvimento de software, dados, gestão de produto digital)",4,15000
+R209,2026-11-04,2026,Não,Engenharia Naval,"De 7,0 a 7,9",Sim,5,"Engenharia (projeto, operações, manutenção, P&D técnico)","Engenharia (projeto, operações, manutenção, P&D técnico)",5,5000
+R210,2026-11-04,2025,Não,Engenharia Elétrica (qualquer ênfase),"De 7,0 a 7,9",Não,1,Ainda não sei,"Engenharia (projeto, operações, manutenção, P&D técnico)",2,3000

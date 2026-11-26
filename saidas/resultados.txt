@@ -1,0 +1,315 @@
+Reprodução dos cálculos do relatório – PRO3201, Grupo 12-L (2026)
+R version 4.6.2 (2026-10-29) 
+
+========================================================================
+Preparação dos dados (Apêndice C, etapa 5)
+========================================================================
+Respostas na planilha codificada: 210 
+Enviadas nos três últimos dias de coleta: 174 (82.9%)
+Fora da população (outro ano de ingresso ou intercâmbio): 6 
+Observações válidas: 204 
+Campos em branco nas válidas: 0 
+
+========================================================================
+4.1 Composição da amostra
+========================================================================
+Ingresso
+2024 2025 2026 
+  73   74   57 
+
+2024 2025 2026 
+35.8 36.3 27.9 
+
+Tabela 4 – Distribuição das respostas válidas por curso
+             n    %
+Elétrica    40 19.6
+Produção    38 18.6
+Civil       28 13.7
+Computação  19  9.3
+Química     14  6.9
+Materiais   13  6.4
+Mecânica    12  5.9
+Naval       12  5.9
+Minas        9  4.4
+Ambiental    7  3.4
+Mecatrônica  7  3.4
+Outro        3  1.5
+Metalúrgica  2  1.0
+
+========================================================================
+4.2 Q1 – Intenção de carreira atual (Figura 1)
+========================================================================
+                    n    %
+Engenharia         78 38.2
+Tecnologia         16  7.8
+Mercado financeiro 41 20.1
+Consultoria        29 14.2
+Empreendedorismo    9  4.4
+Outro              11  5.4
+Não sabe           20  9.8
+
+Com intenção definida: 184 | fora de engenharia/tecnologia: 90 (48.9%)
+
+========================================================================
+Q3 – Intenção no ingresso × atual (Figura 2 e Tabela 5)
+========================================================================
+         Engenharia Tecnologia Mercado financeiro Consultoria Empreendedorismo
+Ingresso       52.9        9.8               13.7         2.9              2.5
+Atual          38.2        7.8               20.1        14.2              4.4
+         Outro Não sabe
+Ingresso   4.4     13.7
+Atual      5.4      9.8
+
+Tabela 5 – Matriz de transição (linhas: ingresso; colunas: atual)
+                    Atual
+Ingresso             Engenharia Tecnologia Mercado financeiro Consultoria
+  Engenharia                 67          5                  9          11
+  Tecnologia                  5          7                  4           2
+  Mercado financeiro          1          3                 17           4
+  Consultoria                 0          0                  1           3
+  Empreendedorismo            1          0                  0           0
+  Outro                       1          0                  0           1
+  Não sabe                    3          1                 10           8
+  Sum                        78         16                 41          29
+                    Atual
+Ingresso             Empreendedorismo Outro Não sabe Sum
+  Engenharia                        2     4       10 108
+  Tecnologia                        1     0        1  20
+  Mercado financeiro                2     0        1  28
+  Consultoria                       0     0        2   6
+  Empreendedorismo                  4     0        0   5
+  Outro                             0     7        0   9
+  Não sabe                          0     0        6  28
+  Sum                               9    11       20 204
+
+Mantiveram: 111 | Mudaram: 93 (45.6%)
+Mudaram para mercado financeiro ou consultoria: 50 
+
+========================================================================
+Q2 – Desvio pretendido por turma (com intenção definida)
+========================================================================
+2024 2025 2026 
+48.6 53.8 42.9 
+
+========================================================================
+Q4 – Grau de certeza (Figura 3)
+========================================================================
+Geral: média 3,53 | mediana 4 | moda 4 | Q1 3 | Q3 4 | dp 1,07 | nota 4 ou 5: 59.3%
+2024 2025 2026 
+3.77 3.36 3.46 
+      
+       Baixa (1-2) Média (3) Alta (4-5)
+  2024         6.8      26.0       67.1
+  2025        24.3      18.9       56.8
+  2026        15.8      31.6       52.6
+
+========================================================================
+Q5 – Curso, entidade e processos seletivos
+========================================================================
+Figura 4 – Intenção (3 grupos) por grupo de curso, % na linha
+                                     
+                                      Engenharia/Tecnologia
+  Produção                                               16
+  Elétrica/Computação                                    61
+  Civil/Ambiental                                        40
+  Mecânica/Mecatrônica/Naval                             58
+  Química/Materiais/Metalúrgica/Minas                    47
+                                     
+                                      Mercado financeiro/Consultoria
+  Produção                                                        68
+  Elétrica/Computação                                             20
+  Civil/Ambiental                                                 31
+  Mecânica/Mecatrônica/Naval                                      29
+  Química/Materiais/Metalúrgica/Minas                             29
+                                     
+                                      Outros/Indefinido
+  Produção                                           16
+  Elétrica/Computação                                19
+  Civil/Ambiental                                    29
+  Mecânica/Mecatrônica/Naval                         13
+  Química/Materiais/Metalúrgica/Minas                24
+
+Desvio pretendido por grupo de curso (%):
+                           Produção                 Elétrica/Computação 
+                               82.9                                32.1 
+                    Civil/Ambiental          Mecânica/Mecatrônica/Naval 
+                               54.8                                40.0 
+Química/Materiais/Metalúrgica/Minas 
+                               43.8 
+
+Participam de entidade: 153 (75.0%)
+     
+      Engenharia/Tecnologia Mercado financeiro/Consultoria Outros/Indefinido
+  Sim                  40.5                           39.9              19.6
+  Não                  62.7                           17.6              19.6
+Desvio pretendido por entidade (%):
+ Sim  Não 
+56.0 25.6 
+
+Processos seletivos: nenhum = 114 (55.9%)
+         n      media         Q1    mediana         Q3         dp         cv 
+    204.00       2.20       0.00       0.00       3.00       3.99       1.82 
+       aiq        min        max assimetria 
+      3.00       0.00      30.00       3.14 
+Moda: 0 
+                Engenharia/Tecnologia Mercado financeiro/Consultoria
+media                             1.1                            3.9
+% com 1 ou mais                  34.0                           64.3
+                Outros/Indefinido
+media                         1.6
+% com 1 ou mais              32.5
+
+========================================================================
+Q6 – Faixa de média ponderada e expectativa salarial
+========================================================================
+
+Abaixo de 7,0     7,0 a 7,9   8,0 ou mais 
+         29.9          35.3          34.8 
+               
+                Engenharia/Tecnologia Mercado financeiro/Consultoria
+  Abaixo de 7,0                  47.5                           34.4
+  7,0 a 7,9                      38.9                           43.1
+  8,0 ou mais                    52.1                           25.4
+               
+                Outros/Indefinido
+  Abaixo de 7,0              18.0
+  7,0 a 7,9                  18.1
+  8,0 ou mais                22.5
+
+Expectativa salarial – geral
+         n      media         Q1    mediana         Q3         dp         cv 
+    204.00    7870.10    5500.00    7000.00   10000.00    3595.84       0.46 
+       aiq        min        max assimetria 
+   4500.00    2000.00   30000.00       2.17 
+Modas: 6000 10000 
+
+Tabela 6 – Expectativa salarial por grupo de intenção atual
+                     n    media mediana       dp    cv  min   max   Q1    Q3
+Engenharia          78 6980.769    6000 2825.490 0.405 3000 20000 5000  8000
+Tecnologia          16 8468.750    8500 2642.403 0.312 5000 15000 6000 10000
+Mercado financeiro  41 9817.073   10000 5097.495 0.519 4500 30000 7000 10000
+Consultoria         29 8534.483    8000 3170.543 0.371 2500 14000 6000 12000
+Outros/Indefinido   40 6887.500    7000 2820.455 0.410 2000 13000 5000  8500
+Total              204 7870.098    7000 3595.843 0.457 2000 30000 5500 10000
+                    aiq
+Engenharia         3000
+Tecnologia         4000
+Mercado financeiro 3000
+Consultoria        6000
+Outros/Indefinido  3500
+Total              4500
+
+Variâncias por grupo:
+        Engenharia         Tecnologia Mercado financeiro        Consultoria 
+           7983392            6982292           25984451           10052340 
+ Outros/Indefinido 
+           7954968 
+
+========================================================================
+Tabela 7 – Testes qui-quadrado de associação
+========================================================================
+q2_turma_desvio                        n = 184,0000 | Q = 1,3554 | gl = 2,0000 | critico = 5,9915 | valor_p = 0,5078 | menor_E = 23,9674 | rejeita_H0 = FALSE
+q4_turma_certeza                       n = 204,0000 | Q = 10,5281 | gl = 4,0000 | critico = 9,4877 | valor_p = 0,0324 | menor_E = 8,9412 | rejeita_H0 = TRUE
+q5_curso                               n = 201,0000 | Q = 31,3757 | gl = 8,0000 | critico = 15,5073 | valor_p = 0,0001 | menor_E = 6,1692 | rejeita_H0 = TRUE
+q5_entidade                            n = 204,0000 | Q = 9,6041 | gl = 2,0000 | critico = 5,9915 | valor_p = 0,0082 | menor_E = 10,0000 | rejeita_H0 = TRUE
+q5_processos                           n = 204,0000 | Q = 18,8610 | gl = 4,0000 | critico = 9,4877 | valor_p = 0,0008 | menor_E = 8,8235 | rejeita_H0 = TRUE
+q6_media                               n = 204,0000 | Q = 5,1385 | gl = 4,0000 | critico = 9,4877 | valor_p = 0,2734 | menor_E = 11,9608 | rejeita_H0 = FALSE
+
+========================================================================
+Q1 – Proporção que pretende atuar fora de engenharia/tecnologia
+========================================================================
+IC 95%                                 p = 0,4891 | inf = 0,4169 | sup = 0,5614
+H0: p = 0,62; H1: p < 0,62             x = 90,0000 | n = 184,0000 | p = 0,4891 | z = -3,6573 | critico = -1,6449 | valor_p = 0,0001 | rejeita_H0 = TRUE
+
+========================================================================
+Q3 – Mudança de intenção desde o ingresso
+========================================================================
+IC 95% (mudou)                         p = 0,4559 | inf = 0,3875 | sup = 0,5242
+Definida nos dois momentos: 162 | saíram: 33 | caminho inverso: 6 | fora: 27.8% no ingresso, 44.4% hoje
+H0: p = 0,5 (bilateral)                x = 33,0000 | n = 39,0000 | p = 0,8462 | z = 4,3235 | critico = 1,9600 | valor_p = 0,0000 | rejeita_H0 = TRUE
+
+========================================================================
+Q5 – Duas proporções: desvio com e sem entidade
+========================================================================
+Participantes: 79 de 141 | Não participantes: 11 de 43
+H0: p1 = p2                            p1 = 0,5603 | p2 = 0,2558 | p_combinado = 0,4891 | z = 3,4963 | critico = 1,9600 | valor_p = 0,0005 | rejeita_H0 = TRUE | ic_dif = 0,1505; 0,4585
+
+========================================================================
+Q6 – Expectativa salarial: Bartlett, KS, ANOVA e Scheffé
+========================================================================
+Bartlett, escala original              D = 26,4461 | gl = 4,0000 | critico = 9,4877 | valor_p = 0,0000 | rejeita_H0 = TRUE | D_com_correcao = 26,0960
+Bartlett, ln(salário)                 D = 5,1071 | gl = 4,0000 | critico = 9,4877 | valor_p = 0,2765 | rejeita_H0 = FALSE | D_com_correcao = 5,0395
+KS resíduos, escala original          K = 0,1207 | n = 204,0000 | critico = 0,0952 | rejeita_H0 = TRUE
+KS resíduos, ln(salário)             K = 0,0607 | n = 204,0000 | critico = 0,0952 | rejeita_H0 = FALSE
+
+Tabela 8 – ANOVA com um fator para ln(expectativa salarial)
+             Fonte     SQ  gl    QM     F F_critico  valor_p
+      Entre grupos  3.879   4 0.970 6.212     2.417 9.92e-05
+ Dentro dos grupos 31.067 199 0.156    NA        NA       NA
+             Total 34.946 203    NA    NA        NA       NA
+
+Tabela 9 – Comparações múltiplas de Scheffé (ln da expectativa salarial)
+                                    par dif_abs delta diferem
+                Engenharia x Tecnologia   0.217 0.337     Não
+        Engenharia x Mercado financeiro   0.315 0.237     Sim
+               Engenharia x Consultoria   0.190 0.267     Não
+         Engenharia x Outros/Indefinido   0.038 0.239     Não
+        Tecnologia x Mercado financeiro   0.097 0.362     Não
+               Tecnologia x Consultoria   0.028 0.383     Não
+         Tecnologia x Outros/Indefinido   0.255 0.363     Não
+       Mercado financeiro x Consultoria   0.125 0.298     Não
+ Mercado financeiro x Outros/Indefinido   0.352 0.273     Sim
+        Consultoria x Outros/Indefinido   0.228 0.300     Não
+
+Média geométrica por grupo (R$):
+        Engenharia         Tecnologia Mercado financeiro        Consultoria 
+              6527               8112               8940               7892 
+ Outros/Indefinido 
+              6286 
+Mercado financeiro / Engenharia = 1.370 | Mercado financeiro / Outros = 1.422
+
+========================================================================
+R1 – Mudança de intenção só entre quem tinha intenção definida nos dois momentos
+========================================================================
+Dos 93 que 'mudaram': 22 não sabiam no ingresso e definiram; 14 passaram a não saber
+Mudaram de área (57 de 162)           p = 0,3519 | inf = 0,2783 | sup = 0,4254
+Mudança por turma (%): 49.3 48.6 36.8 
+Turma × mudou                         n = 204,0000 | Q = 2,4459 | gl = 2,0000 | critico = 5,9915 | valor_p = 0,2944 | menor_E = 25,9853 | rejeita_H0 = FALSE
+
+========================================================================
+R2 – Ponderação pelos estratos (partilha igual, P1-1 slide 27)
+========================================================================
+Desvio ponderado (pesos iguais)        p = 0,4842 | inf = 0,4115 | sup = 0,5570
+Não ponderado: 0,4891 
+
+========================================================================
+R3 – Q3 pelo teste de McNemar
+========================================================================
+Q = (b − c)²/(b + c) = 18,692 | Z² = 18,692 | valor-p = 1.54e-05
+Teste binomial exato: valor-p = 1.43e-05 
+
+========================================================================
+R4 – Q6 com outros métodos
+========================================================================
+Bartlett com correção C (original)   D = 26,0960
+Bartlett com correção C (ln)         D = 5,0395
+ANOVA na escala original               F = 5,8049 | Fc = 2,4170 | valor_p = 0,0002
+Kruskal-Wallis: H = 21,688 | valor-p = 0.000231 
+Shapiro-Wilk nos resíduos de ln(salário): W = 0,9909 | valor-p = 0,228 
+Valor crítico aproximado de Lilliefors (parâmetros estimados): 0,886/√n = 0,0620 contra K = 0,0607 
+
+========================================================================
+R5 – Definição de desvio sem a categoria 'Outro'
+========================================================================
+Se 'Outro' (pesquisa, setor público) contasse como dentro: 79 de 184 = 42.9%
+
+========================================================================
+R6 – Regressão linear simples: ln(salário) em função dos processos seletivos
+========================================================================
+b0 = 8,8210 | b1 = 0,0285 | R² = 0,075 | F = 16,399 | valor-p = 7.31e-05
+Atenção: 56% dos estudantes têm zero processos e o máximo é 30; pontos extremos pesam no ajuste.
+
+========================================================================
+Conferência com os valores publicados no relatório
+========================================================================
+159 de 159 números conferem.
