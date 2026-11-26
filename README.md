@@ -14,6 +14,24 @@ Rscript run_all.R
 
 A saída completa vai para [`saidas/resultados.txt`](saidas/resultados.txt), que também está versionada, para leitura sem rodar.
 
+As figuras 1 a 5 do relatório saem de outro comando, também só com R base:
+
+```bash
+Rscript R/05_figuras.R
+```
+
+Cada figura é gravada em [`figuras/`](figuras/) em dois formatos: PNG a 300 dpi, para colar em documentos, e PDF vetorial, com a fonte Arial embutida. O estilo é sóbrio: tons de cinza, sem título dentro do gráfico (a legenda fica no relatório) e rótulos com vírgula decimal.
+
+| Arquivo | Figura do relatório |
+|---|---|
+| `figura_1` | Intenção de carreira atual dos estudantes |
+| `figura_2` | Intenção de carreira no ingresso e atualmente |
+| `figura_3` | Grau de certeza sobre a carreira por turma de ingresso |
+| `figura_4` | Intenção de carreira atual (três grupos) por grupo de curso |
+| `figura_5` | Expectativa salarial bruta por grupo de intenção atual (boxplot) |
+
+No boxplot, os bigodes vão até o último valor dentro de 1,5 × AIQ, e os círculos marcam os valores acima disso, a mesma regra de "possível valor atípico" dos slides da disciplina. As fórmulas da seção 2 do relatório estão em [`docs/formulas/`](docs/formulas/), geradas por `docs/formulas/gerar.py`.
+
 ## Estrutura
 
 | Arquivo | O que faz | Seção do relatório |
@@ -24,6 +42,7 @@ A saída completa vai para [`saidas/resultados.txt`](saidas/resultados.txt), que
 | `R/02_descritiva.R` | Tabelas de frequência, matriz de transição e medidas-resumo | Seções 4.1 e 4.2 |
 | `R/03_inferencial.R` | IC e testes para proporções, qui-quadrado, Bartlett, KS, ANOVA e Scheffé | Seção 4.3 |
 | `R/04_robustez.R` | Verificações extras que não estão no relatório (ver abaixo) | — |
+| `R/05_figuras.R` | Figuras 1 a 5, em PNG e PDF | Seção 4.2 |
 | `testes/conferencia.R` | Compara cada número recalculado com o publicado no relatório | — |
 
 ## Dados
