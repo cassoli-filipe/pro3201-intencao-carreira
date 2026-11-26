@@ -17,7 +17,7 @@ FORMULAS = {
     "03a_duas_proporcoes_teste": r"Z = \dfrac{\hat{p}_1-\hat{p}_2}{\sqrt{\hat{p}(1-\hat{p})\left(\dfrac{1}{n_1}+\dfrac{1}{n_2}\right)}}," + Q
                                  + r"\hat{p} = \dfrac{n_1\hat{p}_1+n_2\hat{p}_2}{n_1+n_2}",
     "03b_duas_proporcoes_ic": r"\hat{p}_1-\hat{p}_2 \pm z_{\alpha/2}\sqrt{\dfrac{\hat{p}_1(1-\hat{p}_1)}{n_1}+\dfrac{\hat{p}_2(1-\hat{p}_2)}{n_2}}",
-    "04_qui_quadrado":   r"Q = \sum_{i=1}^{I};\sum_{j=1}^{J}\dfrac{(O_{ij}-E_{ij})^2}{E_{ij}}," + Q + r"E_{ij} = \dfrac{n_{i\bullet}\,n_{\bullet j}}{n}",
+    "04_qui_quadrado":   r"Q = \sum_{i=1}^{I}\;\sum_{j=1}^{J}\dfrac{(O_{ij}-E_{ij})^2}{E_{ij}}," + Q + r"E_{ij} = \dfrac{n_{i\bullet}\,n_{\bullet j}}{n}",
     "05_kolmogorov":     r"K = \max\left|F_0(x)-F_n(x)\right|",
     "06_anova":          r"F = \dfrac{\mathrm{SQE}/(k-1)}{\mathrm{SQD}/(n-k)}," + Q
                          + r"\mathrm{SQE} = \sum_{i=1}^{k} n_i(\overline{X}_i-\overline{X})^2," + Q
